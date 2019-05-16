@@ -1,0 +1,23 @@
+<body bgcolor="#FFFFFF" leftmargin="40" topmargin="0" marginwidth="0" marginheight="0">
+
+<div>
+    <br/>
+    <div id="message">
+        <h2>This is message to you:</h2>
+        ${message}
+        <h3>Contacts of user who left the message:</h3>
+        <p> Name: ${userName}</p>
+        <p>Email: ${userEmail}</p>
+        <p>Phone: ${userPhoneNumber}</p>
+    </div>
+
+    <hr>
+    <div id="ps">
+        <p>Best regards, administration LogistLog!</p>
+        <p>C уважением, администрация LogistLog!</p>
+    </div>
+
+</div>
+
+</body>
+

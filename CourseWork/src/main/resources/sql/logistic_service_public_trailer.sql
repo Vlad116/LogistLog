@@ -1,0 +1,1 @@
+INSERT INTO public.trailer (id, registration_number, years_of_exploitation, mileage, tonnage, carrier_company_id, volume_in_cubic_meters, mark, type, inner_length, inner_width, inner_height) VALUES (2, '3BWE12RU116', 4, 12000, null, null, null, null, null, null, null, null);
